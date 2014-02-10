@@ -10,5 +10,5 @@ function cscmstips() {
 };
 setInterval('cscmstips()', 10000);
 if(play!='bdhd'){
-    document.getElementById("buffer").src = 'http://khanhthoa.byethost24.com/loading.html?'+ new Date();
+    document.getElementById("buffer").src = 'https://github.com/khanhthoa/js/blob/master/ld.html?'+ new Date();
 }
